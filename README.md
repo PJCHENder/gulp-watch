@@ -8,7 +8,7 @@ This is a simple browser auto-reloading app by gulp-watching and browsersync, wh
 Set the folder and file type you want to watch in `gulpfile.js`:
 
 ```javascript
-gulp.watch('.//app/**/*.{css,js,erb,scss,vue}', ['browser-reload'])
+gulp.watch('./app/**/*.{css,js,erb,scss,vue}', ['browser-reload'])
 ```
 
 You can use local server to start your app or through proxy:
