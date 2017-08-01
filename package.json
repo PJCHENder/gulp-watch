@@ -1,5 +1,5 @@
 {
-  "name": "pjchender-gulp-template",
+  "name": "pjchender-gulp-watch",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
@@ -7,17 +7,10 @@
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "PJCHENder",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.18.8",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1",
-    "gulp-clean-css": "^3.0.4",
-    "gulp-concat": "^2.6.1",
-    "gulp-inject": "^4.2.0",
-    "gulp-pug": "^3.3.0",
-    "gulp-sass": "^3.1.0",
-    "gulp-load-plugins": "^1.5.0"
+    "gulp": "^3.9.1"
   }
 }
